@@ -36,8 +36,8 @@ Compile css file and watch for changes
 npm run watch
 ```
 
-Link the css file a blade file e.g. `resources/views/welcome.blade.php`
-```php
+Link the css file to a blade file e.g. `./resources/views/welcome.blade.php`
+```html
 <link href = {{ asset('css/main.css') }} rel = "stylesheet" />
 ```
 

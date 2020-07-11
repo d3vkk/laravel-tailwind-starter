@@ -21,13 +21,10 @@ You should have the following installed
 git clone https://github.com/d3vkk/laravel-tailwind-starter.git
 ```
 
-Install dependencies with npm
-```
+Install dependencies with npm or yarn
+```bash
 npm install
-```
-
-Or yarn
-```
+#or
 yarn install
 ```
 

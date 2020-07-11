@@ -31,9 +31,9 @@ Or yarn
 yarn install
 ```
 
-Compile the css file
+Compile css file and watch for changes
 ```
-npm run dev
+npm run watch
 ```
 
 Link the css file a blade file e.g. `resources/views/welcome.blade.php`

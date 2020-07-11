@@ -4,11 +4,9 @@
 
 Laravel 7 + Tailwind CSS Starter. With zero bloat dependencies
 
-[What is Laravel?](https://laravel.com/)
+What is [Laravel](https://laravel.com/) or [Tailwind CSS?](https://tailwindcss.com/)
 
-[What is Tailwind CSS?](https://tailwindcss.com/)
-
-# Prerequisites
+## Prerequisites
 
 You should have the following installed
  - [PHP 7.3 or higher](https://php)

@@ -1,8 +1,8 @@
-# Laravel 7 + Tailwind CSS Template
+# Laravel 7 + Tailwind CSS Starter
 
-![Laravel + Tailwind Logo](https://github.com/d3vkk/laravel-tailwind-template/blob/master/laravel-tailwind-logo.png)
+![Laravel + Tailwind Logo](https://github.com/d3vkk/laravel-tailwind-starter/blob/master/laravel-tailwind-logo.png)
 
-Laravel 7 + Tailwind CSS Template. With zero bloat dependencies
+Laravel 7 + Tailwind CSS Starter. With zero bloat dependencies
 
 [What is Laravel?](https://laravel.com/)
 
@@ -11,7 +11,7 @@ Laravel 7 + Tailwind CSS Template. With zero bloat dependencies
 ## Set up
 
 ```
-git clone https://github.com/d3vkk/laravel-tailwind-template.git
+git clone https://github.com/d3vkk/laravel-tailwind-starter.git
 ```
 
 Install dependencies with npm

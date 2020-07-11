@@ -41,4 +41,9 @@ Link the css file a blade file e.g. `resources/views/welcome.blade.php`
 <link href = {{ asset('css/main.css') }} rel = "stylesheet" />
 ```
 
+Start up php server
+```
+php artisan serve
+```
+
 © 2020 Donald K • Under MIT License

@@ -9,7 +9,7 @@ What is [Laravel](https://laravel.com/) or [Tailwind CSS?](https://tailwindcss.c
 ## Prerequisites
 
 You should have the following installed
- - [PHP 7.3 or higher](https://php)
+ - [PHP 7.3 or higher](https://php.net/)
  - [Laravel 7](https://laravel.com/)
  - [npm](https://npm.com/) or [yarn](https://yarnpkg.com/)
 

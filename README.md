@@ -15,6 +15,7 @@ You should have the following installed
 
 ## Set up
 
+Fork or clone this repo
 ```
 git clone https://github.com/d3vkk/laravel-tailwind-starter.git
 ```

@@ -2,8 +2,6 @@
 
 ![Laravel + Tailwind Logo](https://github.com/d3vkk/laravel-tailwind-starter/blob/master/laravel-tailwind-logo.png)
 
-Laravel 7 + Tailwind CSS Starter. With zero bloat dependencies
-
 What is [Laravel](https://laravel.com/) or [Tailwind CSS?](https://tailwindcss.com/)
 
 ## Prerequisites
